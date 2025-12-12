@@ -1,4 +1,4 @@
-# 📘 Feature Encoding & Feature Scaling – Practical (Google Colab)
+# 📘 Feature Encoding & Feature Scaling 
 
 This practical demonstrates how to apply Feature Encoding and Feature Scaling techniques commonly used in Machine Learning preprocessing. The notebook covers converting categorical data into numerical form and scaling numerical features for better model performance.
 
